@@ -11,4 +11,4 @@ Regression however is used to predict continuous values and is more accurately u
 
 After finishing the assignment we saw that the stock prices holds steady for a long time before increasing rapidly and staying up at a certain date. From the research we did, a polynomial method would much more accurate than linear regression as the low stable price affects the the linear regression leading to an inaccurate result. But as the assignment asked for linear regression or classification we have stuck to regression.
 
-Group members - Zarmina Ehsan, Hekuran Ismajli, Bhiravina Mahesaratnam, Alexander Kei San Natvig 
+Group members: Zarmina Ehsan - s349051, Hekuran Ismajli - s364761, Bhiravina Mahesaratnam - s334895, Alexander Kei San Natvig - alexnat
