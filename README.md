@@ -10,3 +10,5 @@ during research we have figured out that classification algorithms are mainly us
 Regression however is used to predict continuous values and is more accurately used to try and predict something that hasn't happened yet, usually involving numerical values. With this information it seemed clear cut that for use case 1, regression was the way to go as we wanted to predict future stock prices.
 
 After finishing the assignment we saw that the stock prices holds steady for a long time before increasing rapidly and staying up at a certain date. From the research we did, a polynomial method would much more accurate than linear regression as the low stable price affects the the linear regression leading to an inaccurate result. But as the assignment asked for linear regression or classification we have stuck to regression.
+
+Group members - Zarmina Ehsan, Hekuran Ismajli, Bhiravina Mahesaratnam, Alexander Kei San Natvig 
